@@ -41,11 +41,30 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
+### Desarrollo Móvil
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+
 ### Bases de Datos
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+## 🖥️ Administración de Servidores y Herramientas
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-CA1F11?logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-269539?logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazonaws&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D7?logo=windows&logoColor=white)
 
 ---
 
