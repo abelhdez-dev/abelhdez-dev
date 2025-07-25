@@ -53,7 +53,7 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-## 🖥️ Administración de Servidores y Herramientas
+### Administración de Servidores y Herramientas
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white)
